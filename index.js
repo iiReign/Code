@@ -201,4 +201,4 @@ if(cmd === `${prefix}mute`){ //mute
 
 });
 
-    bot.login(`NDc0Njg5NTUzMjgyODkxODA2.DkUIxQ.SieB_pU7gw0IW_bJlEtddKA0ilU`);
+    bot.login(process.env.BOT_TOKEN)
