@@ -2,7 +2,7 @@
   "name": "Code",
    "description": "Test",
     "version": "0.0.1",
-    "main": "index.js"
+    "main": "index.js",
     "scripts": {
       "start": "node index.js"
      },
